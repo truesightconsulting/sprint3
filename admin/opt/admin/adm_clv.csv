@@ -1,2 +1,3 @@
-sales1_name,clv,approval
-Gross Adds,569,
+sales1_name,sales2_name,clv,approval
+Gross Adds,Online,569,
+Gross Adds,Offline,200,
